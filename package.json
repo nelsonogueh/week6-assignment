@@ -1,0 +1,21 @@
+{
+  "name": "e-commerce-assignment",
+  "version": "1.0.0",
+  "description": "Week6 e-Commerce assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "e-Commerce"
+  ],
+  "author": "Nelson Ogueh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
